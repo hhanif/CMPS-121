@@ -1,5 +1,6 @@
 # CMPS-121
-CMPS121: Mobile Applications
+Lab Assignment from CMPS-121: Mobile Applications
+
 
 Android applications created in this class will be uploaded later.
 
